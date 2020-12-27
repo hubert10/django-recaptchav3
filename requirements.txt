@@ -1,0 +1,10 @@
+Django
+certifi
+chardet
+greenlet
+idna
+msgpack
+pytz
+requests
+sqlparse
+urllib3
